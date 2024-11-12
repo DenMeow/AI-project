@@ -11,5 +11,3 @@
 ## [5 Work](https://github.com/DenMeow/AI-project/blob/main/Berezniker_D_Workbook5.ipynb) 
 
 ## [6 Work](https://github.com/DenMeow/AI-project/blob/main/Berezniker_D_Workbook6.ipynb) 
-
-## [7 Work](https://github.com/DenMeow/AI-project/blob/main/Berezniker_D_Workbook7.ipynb) 
